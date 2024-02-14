@@ -34,7 +34,7 @@ Here's a sample of projects that I worked on at the City of Austin:
 
 *"Save tens of dollars every year!"*
 
-- [Infraestructura](https://github.com/Niicck/infraestructura) -- this is how I deploy all of my personal projects. And how you can too can deploy all of my personal projects, I guess.
+- [Infraestructura](https://github.com/Niicck/infraestructura) -- this is how I deploy all of my personal projects. And how you too can deploy all of my personal projects, I guess.
 
 **Are you here but you'd rather be off the internet and actually engaged with the world?**
 
