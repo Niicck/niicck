@@ -5,7 +5,7 @@ I do full-stack web development. Mostly in Django and React.
 **Sample Projects:**
 - [supergood.site](https://supergood.site): An astro blog where I do deep dives into projects I'm working on.
 - [infraestructura](https://github.com/Niicck/infraestructura): A ansible + dokku deployment pipeline for my personal projects.
-- [supergood-reads](https://github.com/Niicck/supergood-reads): An experiment in integrating Vite components into django templates. Please [don't]((https://supergood.site/tech/series/django-vue-experiements/)) attempt this.
+- [supergood-reads](https://github.com/Niicck/supergood-reads): An experiment in integrating Vite components into django templates.
 
 **Open Source Contributions:**
 - [django-vite](https://github.com/MrBin99/django-vite)
